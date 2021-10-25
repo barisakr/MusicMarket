@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -22,7 +23,11 @@ namespace MusicMarket.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<IUnitOfWork, UnitOfWork>();
-             
+
+            services.AddDbContext<MusicMarketDbContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("SqlServer"),
+            x => x.MigrationsAssembly("MusicMarket.Data")));
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

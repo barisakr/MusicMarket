@@ -9,3 +9,4 @@ C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\MusicMarket\Music
 C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\MusicMarket\MusicMarket.Core\obj\Debug\net5.0\MusicMarket.Core.dll
 C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\MusicMarket\MusicMarket.Core\obj\Debug\net5.0\ref\MusicMarket.Core.dll
 C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\MusicMarket\MusicMarket.Core\obj\Debug\net5.0\MusicMarket.Core.pdb
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\MusicMarket\MusicMarket.Core\obj\Debug\net5.0\MusicMarket.Core.csproj.AssemblyReference.cache
