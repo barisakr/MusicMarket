@@ -2,10 +2,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using MusicMarket.Core.Models;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
 
 namespace MusicMarket.Data.Configurations
 {
@@ -29,4 +25,4 @@ namespace MusicMarket.Data.Configurations
                 .ToTable("Artists");
         }
     }
-}
+} 

@@ -1,11 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using MusicMarket.Core.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MusicMarket.Data.Configurations
 {
@@ -14,7 +10,7 @@ namespace MusicMarket.Data.Configurations
         public void Configure(EntityTypeBuilder<Music> builder)
         {
             builder
-               .HasKey(m => m.Id);
+                .HasKey(m => m.Id);
 
             builder
                 .Property(m => m.Id)
@@ -34,4 +30,4 @@ namespace MusicMarket.Data.Configurations
                 .ToTable("Musics");
         }
     }
-}
+} 

@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MusicMarket.Core\MusicMarket.Core.csproj" />
+    <ProjectReference Include="..\MusicMarket.Data\MusicMarket.Data.csproj" />
     <ProjectReference Include="..\MusicMarket.Services\MusicMarket.Services.csproj" />
   </ItemGroup>
 

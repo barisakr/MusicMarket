@@ -1,0 +1,11 @@
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\MusicMarket\MusicMarket.Core\bin\Debug\net5.0\MusicMarket.Core.deps.json
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\MusicMarket\MusicMarket.Core\bin\Debug\net5.0\MusicMarket.Core.dll
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\MusicMarket\MusicMarket.Core\bin\Debug\net5.0\ref\MusicMarket.Core.dll
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\MusicMarket\MusicMarket.Core\bin\Debug\net5.0\MusicMarket.Core.pdb
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\MusicMarket\MusicMarket.Core\obj\Debug\net5.0\MusicMarket.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\MusicMarket\MusicMarket.Core\obj\Debug\net5.0\MusicMarket.Core.AssemblyInfoInputs.cache
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\MusicMarket\MusicMarket.Core\obj\Debug\net5.0\MusicMarket.Core.AssemblyInfo.cs
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\MusicMarket\MusicMarket.Core\obj\Debug\net5.0\MusicMarket.Core.csproj.CoreCompileInputs.cache
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\MusicMarket\MusicMarket.Core\obj\Debug\net5.0\MusicMarket.Core.dll
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\MusicMarket\MusicMarket.Core\obj\Debug\net5.0\ref\MusicMarket.Core.dll
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\MusicMarket\MusicMarket.Core\obj\Debug\net5.0\MusicMarket.Core.pdb
